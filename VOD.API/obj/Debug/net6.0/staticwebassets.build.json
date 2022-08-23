@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TH0fyyiEU0SHTm++QypIaAvI7RDDWkFDPhaNZvNwPAA=",
+  "Source": "VOD.API",
+  "BasePath": "_content/VOD.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

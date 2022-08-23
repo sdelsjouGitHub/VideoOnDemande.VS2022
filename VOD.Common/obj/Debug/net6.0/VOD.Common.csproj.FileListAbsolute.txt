@@ -1,0 +1,12 @@
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\bin\Debug\net6.0\VOD.Common.deps.json
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\bin\Debug\net6.0\VOD.Common.dll
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\bin\Debug\net6.0\VOD.Common.pdb
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\VOD.Common.csproj.AssemblyReference.cache
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\VOD.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\VOD.Common.AssemblyInfoInputs.cache
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\VOD.Common.AssemblyInfo.cs
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\VOD.Common.csproj.CoreCompileInputs.cache
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\VOD.Common.dll
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\refint\VOD.Common.dll
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\VOD.Common.pdb
+C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Common\obj\Debug\net6.0\ref\VOD.Common.dll

@@ -1,0 +1,204 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VOD.Admin
+build_property.RootNamespace = VOD.Admin
+build_property.ProjectDir = C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Admin\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\eldj\source\repos\VSTest\VideoOnDemande.VS2022\VOD.Admin
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Downloads/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Downloads/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Downloads/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Downloads/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Instructors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Instructors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Instructors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Instructors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Modules/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Modules/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Modules/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Modules/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kdWxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_AdminMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbk1lbnVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_BackToIndexButtonsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9CYWNrVG9JbmRleEJ1dHRvbnNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_DeletePageButtons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9EZWxldGVQYWdlQnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_PageButtonsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9QYWdlQnV0dG9uc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_TableRowButtonsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9UYWJsZVJvd0J1dHRvbnNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Videos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Videos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Videos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/Videos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/_CardPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0NhcmRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eldj/source/repos/VSTest/VideoOnDemande.VS2022/VOD.Admin/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
